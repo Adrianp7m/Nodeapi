@@ -35,7 +35,7 @@ $ npm install
 *** Para Windows ***
  Situarse en el directorio donde se ha instalado el Mongo DB       
 ```
-$ cd  C:\Program Files\MongoDB\Server\3.4\bin
+$ cd  C:\Program Files\MongoDB\Server\4.4\bin
 ```
 Ejecutar la siguiente instrucción
 ```
